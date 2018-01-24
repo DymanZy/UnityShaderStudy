@@ -1,6 +1,7 @@
 ﻿// Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld'
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
+//	渐变纹理
 Shader "Study/Chapter 7/RampTexture"
 {
 	Properties
